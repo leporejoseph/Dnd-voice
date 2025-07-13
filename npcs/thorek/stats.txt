@@ -1,0 +1,43 @@
+# Thorek the Blacksmith - Game Statistics
+
+## BASIC STATS
+**Race:** Mountain Dwarf
+**Class:** Expert/Artisan
+**Level:** 5
+**Armor Class:** 16 (Chain Mail)
+**Hit Points:** 45
+**Speed:** 25 feet (not reduced by armor)
+
+## ABILITY SCORES
+- **Strength:** 18 (+4)
+- **Dexterity:** 10 (+0)
+- **Constitution:** 16 (+3)
+- **Intelligence:** 14 (+2)
+- **Wisdom:** 13 (+1)
+- **Charisma:** 11 (+0)
+
+## SKILLS
+- **Athletics:** +7
+- **History:** +5 (especially metalworking and dwarven lore)
+- **Insight:** +4
+- **Investigation:** +5
+- **Smith's Tools:** +8 (expertise)
+
+## RACIAL TRAITS
+- **Darkvision:** 60 feet
+- **Dwarven Resilience:** Advantage against poison
+- **Stonecunning:** Double proficiency on stone-related History checks
+
+## COMBAT ABILITIES
+**Actions:**
+- **Warhammer:** +7 to hit, 1d8+4 bludgeoning damage (1d10+4 two-handed)
+- **Light Hammer (thrown):** +7 to hit, 1d4+4 bludgeoning damage
+
+**Special:** 
+- **Forge Master:** Can quickly repair damaged equipment during short rests
+- **Tactical Fighter:** Uses environment to advantage (anvils, hot metal, etc.)
+
+## NON-COMBAT ABILITIES
+- **Master Craftsman:** Can upgrade weapons and armor given time and materials
+- **Metallurgy Expert:** Can identify magical metals and their properties
+- **Ancient Knowledge:** Knows dwarven history and traditional monster-fighting techniques

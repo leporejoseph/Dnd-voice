@@ -1,0 +1,55 @@
+# Valdris the Forest Guardian - Game Statistics
+
+## BASIC STATS
+**Race:** Ancient Elf (Fey-touched)
+**Class:** Archdruid
+**Level:** 8
+**Armor Class:** 16 (Natural Armor + Wisdom)
+**Hit Points:** 78
+**Speed:** 30 feet, Climb 30 feet
+
+## ABILITY SCORES
+- **Strength:** 12 (+1)
+- **Dexterity:** 15 (+2)
+- **Constitution:** 16 (+3)
+- **Intelligence:** 18 (+4)
+- **Wisdom:** 20 (+5)
+- **Charisma:** 16 (+3)
+
+## SKILLS
+- **Animal Handling:** +11
+- **Arcana:** +7
+- **History:** +10 (especially ancient/natural history)
+- **Insight:** +11
+- **Medicine:** +8
+- **Nature:** +13 (expertise)
+- **Perception:** +11
+- **Survival:** +11
+
+## SPELLCASTING (8th level druid)
+**Spell Save DC:** 16
+**Spell Attack Bonus:** +8
+**Spells Known:**
+- **Cantrips:** Druidcraft, Guidance, Thorn Whip, Produce Flame
+- **1st (4 slots):** Cure Wounds, Detect Magic, Speak with Animals
+- **2nd (3 slots):** Barkskin, Lesser Restoration, Moonbeam
+- **3rd (3 slots):** Dispel Magic, Call Lightning, Speak with Plants
+- **4th (2 slots):** Freedom of Movement, Divination
+
+## SPECIAL ABILITIES
+- **Wild Shape (2/day):** Can transform into beasts (CR 1 or lower)
+- **Timeless Body:** Immunity to aging effects
+- **Nature's Ward:** Immune to charm or frighten from fey or elementals
+- **Forest Guardian:** Can communicate with all forest creatures
+
+## COMBAT ABILITIES (Reluctant Fighter)
+**Actions:**
+- **Quarterstaff:** +4 to hit, 1d6+1 bludgeoning (1d8+1 two-handed)
+- **Produce Flame:** +8 to hit, 2d8 fire damage
+- **Spellcasting:** See spell list above
+
+**Preferred Tactics:**
+- Uses environmental effects and summoned creatures
+- Prefers to restrain and incapacitate rather than kill
+- Will retreat and reposition using Wild Shape
+- Only fights to defend nature or innocent lives

@@ -1,0 +1,39 @@
+# Elara the Merchant - Game Statistics
+
+## BASIC STATS
+**Race:** Human
+**Class:** Commoner/Merchant
+**Level:** 3
+**Armor Class:** 12 (Leather Armor)
+**Hit Points:** 18
+**Speed:** 30 feet
+
+## ABILITY SCORES
+- **Strength:** 10 (+0)
+- **Dexterity:** 14 (+2) 
+- **Constitution:** 12 (+1)
+- **Intelligence:** 16 (+3)
+- **Wisdom:** 15 (+2)
+- **Charisma:** 14 (+2)
+
+## SKILLS
+- **Insight:** +4
+- **Investigation:** +5
+- **Perception:** +4
+- **Persuasion:** +4
+- **History:** +5
+
+## LANGUAGES
+Common, Elvish, Dwarvish
+
+## COMBAT ABILITIES
+**Actions:**
+- **Dagger:** +4 to hit, 1d4+2 piercing damage
+- **Light Crossbow:** +4 to hit, 1d8+2 piercing damage
+
+**Special:** If forced into combat, will attempt to flee or negotiate rather than fight
+
+## NON-COMBAT ABILITIES
+- **Appraise:** Can determine the value of items and treasures
+- **Network:** Has contacts in multiple towns and cities
+- **Lore Knowledge:** Knows stories and legends from her travels

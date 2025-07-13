@@ -1,0 +1,50 @@
+# Grimjaw the Goblin Chieftain - Game Statistics
+
+## BASIC STATS
+**Race:** Goblin (Large for his kind)
+**Class:** Barbarian/Chieftain
+**Level:** 4
+**Armor Class:** 15 (Studded Leather + Dex + Natural Armor)
+**Hit Points:** 45
+**Speed:** 30 feet
+
+## ABILITY SCORES
+- **Strength:** 16 (+3)
+- **Dexterity:** 16 (+3)
+- **Constitution:** 15 (+2)
+- **Intelligence:** 12 (+1)
+- **Wisdom:** 13 (+1)
+- **Charisma:** 14 (+2)
+
+## SKILLS
+- **Athletics:** +5
+- **Intimidation:** +4
+- **Perception:** +3
+- **Stealth:** +5
+- **Survival:** +3
+
+## RACIAL TRAITS
+- **Darkvision:** 60 feet
+- **Nimble Escape:** Can Disengage or Hide as bonus action
+- **Small Size Advantage:** Can move through larger creature spaces
+
+## COMBAT ABILITIES
+**Actions:**
+- **Scimitar:** +6 to hit, 1d6+3 slashing damage
+- **Shortbow:** +6 to hit, 1d6+3 piercing damage (range 80/320)
+- **Leadership (1/day):** All allied goblins within 30 feet gain advantage on next attack
+
+**Bonus Actions:**
+- **Rage (2/day):** +2 damage, resistance to physical damage for 1 minute
+- **Nimble Escape:** Disengage or Hide
+
+## TACTICS
+- Uses terrain advantage and goblin numbers
+- Focuses fire on obvious threats (heavy armor, spellcasters)
+- Retreats if reduced to 15 HP or fewer
+- Calls for parley if clearly outmatched
+
+## GOBLIN WARBAND (If Combat Occurs)
+- **4-6 Goblin Warriors** (AC 13, HP 7, +4 to hit, 1d6+2 damage)
+- **2 Goblin Archers** (AC 13, HP 7, +4 to hit, 1d6+2 damage, range)
+- **1 Goblin Shaman** (AC 12, HP 9, can cast healing word and magic missile)

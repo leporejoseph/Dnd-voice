@@ -1,0 +1,39 @@
+# Thorek the Blacksmith - Inventory & Services
+
+## WEAPON UPGRADES (Available for Purchase)
+- **Silvered Weapons** (100 gp upgrade) - Effective against lycanthropes and some undead
+- **Iron Reinforcement** (50 gp upgrade) - +1 to damage rolls
+- **Masterwork Enhancement** (150 gp upgrade) - +1 to attack rolls
+- **Quick Sharpening** (10 gp) - Advantage on next attack roll
+
+## ARMOR SERVICES
+- **Armor Repair** (25 gp) - Restore damaged AC
+- **Reinforced Joints** (75 gp) - +1 AC upgrade
+- **Padding Addition** (30 gp) - Reduces noise for stealth
+
+## AVAILABLE EQUIPMENT
+- **Silvered Dagger** (25 gp) - Pre-made, ready to purchase
+- **Iron Spikes** (1 gp each) - Has 20 available
+- **Crowbar** (2 gp) - Useful for ruins exploration
+- **Grappling Hook** (2 gp) - With 30 feet of rope
+
+## SPECIAL ITEMS (If Heroes Prove Worthy)
+- **Ancestor's Blessing** - Free enhancement that gives +2 to next saving throw
+- **Dwarven Ale** (5 gp) - Grants temporary hit points (1d4+1) for 1 hour
+- **Holy Symbol** (Free loan) - Thorek's personal symbol, effective against undead
+
+## CRAFTING MATERIALS
+- **Cold Iron** - For crafting weapons effective against fey
+- **Silver Ore** - For silvering weapons and ammunition
+- **Blessed Steel** - Rare metal effective against fiends
+
+## INFORMATION SERVICES
+- **Monster Weaknesses** - Thorek knows traditional methods for fighting undead
+- **Tactical Advice** - Suggestions for fighting in ruins and confined spaces
+- **Equipment Recommendations** - What gear works best for specific challenges
+
+## SPECIAL OFFERS
+- **Friend of Elara Discount** (10% off if Elara vouches)
+- **Bulk Purchase Deal** (15% off orders over 200 gp)
+- **Emergency Rush Job** (Double price but completed in 10 minutes)
+- **Apprentice Work** (Half price but lower quality, -1 to rolls)

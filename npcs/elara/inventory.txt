@@ -1,0 +1,33 @@
+# Elara the Merchant - Inventory & Resources
+
+## QUEST REWARD
+- **200 Gold Pieces** (payment for retrieving the goblet)
+- **Merchant's Seal** (provides discounts at allied shops)
+
+## AVAILABLE SUPPLIES (For Purchase)
+- **Healing Potions** (50 gp each) - Has 3 available
+- **Rope (50 feet)** (2 gp)
+- **Torches** (2 cp each) - Has 10 available
+- **Rations** (2 gp per day) - Has 5 days worth
+- **Basic Supplies:** Bedroll, tinderbox, waterskin
+
+## INFORMATION FOR TRADE
+- **Local Maps** - Can sketch rough paths to Shadowmere
+- **Goblet Lore** - Knows the legend and curse details
+- **Warning Signs** - Can identify symptoms of the curse's influence
+
+## EMERGENCY SUPPLIES (If Heroes Are Struggling)
+- **Silver-Blessed Dagger** (effective against undead)
+- **Protective Charm** (gives advantage on one fear save)
+- **Emergency Healing Kit** (restores 1d4+1 HP, one use)
+
+## CONNECTIONS
+- **Thorek the Blacksmith** - Old friend, will give discount if Elara vouches
+- **Village Elder** - Can provide blessing or local militia help if needed
+- **Traveling Contacts** - May have additional information about shadow creatures
+
+## STORY HOOKS
+If heroes need motivation or direction:
+- Shows a withered flower (evidence of curse spreading)
+- Mentions other adventurers who never returned
+- Reveals personal connection: curse killed her trading partner

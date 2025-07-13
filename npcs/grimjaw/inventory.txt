@@ -1,0 +1,48 @@
+# Grimjaw the Goblin Chieftain - Inventory & Resources
+
+## PERSONAL EQUIPMENT
+- **Chieftain's Scimitar** - Well-maintained curved blade with bone handle
+- **Composite Shortbow** - Reinforced with sinew for extra power
+- **Studded Leather Armor** - Crude but effective protection
+- **Iron Amulet** - Tribal symbol of leadership and protection
+
+## WARBAND RESOURCES
+- **Goblin Warriors** (4-6 available for encounters)
+- **Crude Weapons** - Scimitars, spears, shortbows, daggers
+- **Basic Supplies** - Rope, torches, dried meat, waterskins
+
+## TERRITORIAL KNOWLEDGE
+- **Secret Paths** - Hidden routes through the forest to avoid ruins' main entrance
+- **Trap Locations** - Knows where his tribe has set snares and pit traps
+- **Monster Warnings** - Information about the Shadow Wraith and other dangers
+- **Safe Campsites** - Secure locations for rest within his territory
+
+## NEGOTIATION ASSETS
+- **Safe Passage** - Can guarantee protection through goblin territory
+- **Scout Services** - Goblin scouts can provide reconnaissance 
+- **Distraction** - Warband can create diversion while party enters ruins
+- **Escape Route** - Emergency exit strategy if ruins mission goes wrong
+
+## POTENTIAL TRADES
+**Wants:**
+- Gold (50-100 gp for safe passage)
+- Quality weapons (especially metal swords)
+- Healing potions or medical supplies
+- Respect/acknowledgment of territorial rights
+
+**Offers:**
+- Safe passage to ruins entrance
+- Warning about specific dangers ahead
+- Temporary alliance against Shadow Wraith
+- Information about ruins' layout (limited)
+
+## TREASURE HOARD (If Defeated)
+- **150 Gold Pieces** (tribe's accumulated wealth)
+- **Silver-Tipped Arrows** (12) - Effective against undead
+- **Potion of Healing** - Stolen from previous adventurers
+- **Map Fragment** - Partial layout of ruins' outer chambers
+
+## SPECIAL CIRCUMSTANCES
+- **If Impressed:** May offer one goblin scout as temporary ally
+- **If Threatened Successfully:** Provides information and passage for reduced cost
+- **If Befriended:** Remembers party for future encounters, potential ongoing ally

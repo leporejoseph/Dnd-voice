@@ -1,0 +1,41 @@
+# The Cursed Goblet of Shadowmere
+## 30-Minute D&D Adventure Campaign
+
+### OVERVIEW
+A fast-paced adventure where heroes must retrieve a cursed goblet from the ruins of Shadowmere before dark forces claim it. The adventure is designed to complete in 30 minutes but can be compressed to 10-15 minutes if players move quickly.
+
+### STORY STRUCTURE
+
+**Opening (5 minutes):**
+- Heroes arrive at Moonhaven village
+- Meet Elara the Merchant - learns of the cursed goblet
+- Optional: Meet Thorek the Blacksmith for equipment
+- Receive quest: Retrieve the Shadowmere Goblet before sunset
+
+**First Encounter (8-12 minutes):**
+- Journey to Shadowmere Ruins
+- Meet Grimjaw the Goblin Chieftain and his band
+- Combat or negotiation encounter
+- Learn about the Shadow Wraith guarding the goblet
+
+**Final Encounter (12-15 minutes):**
+- Enter the ruins and face Malachar the Shadow Wraith
+- Puzzle/trap to access the goblet
+- Final combat encounter
+- Resolution and rewards
+
+### TIME COMPRESSION NOTES
+- If players are quick: Add environmental challenges, additional roleplay
+- If players are slow: Skip optional NPCs, streamline encounters
+- Emergency 10-minute version: Go straight to ruins, combine encounters
+
+### ENCOUNTER SCALING
+- Adjust enemy HP and abilities based on party strength
+- Provide multiple solutions (combat, stealth, diplomacy)
+- Emphasize quick decision-making and action
+
+### SUCCESS METRICS
+- Retrieve the goblet before time runs out
+- At least one meaningful choice per encounter
+- Character abilities feel impactful
+- Story has satisfying conclusion

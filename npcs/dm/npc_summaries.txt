@@ -1,0 +1,38 @@
+# NPC Quick Reference Guide
+
+## ELARA THE MERCHANT
+**Location:** Moonhaven Village Market
+**Role:** Quest Giver, Information Source
+**Key Info:** Knows goblet's history, offers reward (200 gold)
+**Personality:** Worried but determined, speaks quickly
+
+## THOREK THE BLACKSMITH  
+**Location:** Moonhaven Village Forge
+**Role:** Equipment Provider, Local Lore
+**Key Info:** Can upgrade weapons, knows about shadow creatures
+**Personality:** Gruff but helpful, speaks slowly and deliberately
+
+## GRIMJAW THE GOBLIN CHIEFTAIN
+**Location:** Forest Path to Ruins
+**Role:** Combat/Negotiation Encounter
+**Key Info:** Controls passage to ruins, hates humans but respects strength
+**Personality:** Cunning, aggressive, speaks in broken common
+
+## VALDRIS THE FOREST GUARDIAN
+**Location:** Ancient Grove near Ruins
+**Role:** Mystical Guide, Optional Ally
+**Key Info:** Can provide magical assistance or warnings
+**Personality:** Mysterious, speaks in riddles, ancient wisdom
+
+## MALACHAR THE SHADOW WRAITH
+**Location:** Shadowmere Ruins Interior
+**Role:** Final Boss Encounter
+**Key Info:** Bound to protect goblet, vulnerable to holy magic
+**Personality:** Menacing, speaks of ancient curses, dramatic
+
+## ENCOUNTER TRIGGERS
+- **Elara:** Automatically when adventure starts
+- **Thorek:** If players ask about equipment/weapons
+- **Grimjaw:** When traveling to ruins (mandatory)
+- **Valdris:** If players explore forest/seek mystical help
+- **Malachar:** When entering the goblet chamber (mandatory)

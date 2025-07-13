@@ -1,0 +1,72 @@
+# Malachar the Shadow Wraith - Game Statistics
+
+## BASIC STATS
+**Race:** Human (Undead Wraith)
+**Class:** Necromancer (Former)
+**Level:** 10 (Challenge Rating 8)
+**Armor Class:** 17 (Natural Armor)
+**Hit Points:** 135 (18d10 + 36)
+**Speed:** 0 feet, Fly 60 feet (hover)
+
+## ABILITY SCORES
+- **Strength:** 8 (-1)
+- **Dexterity:** 16 (+3)
+- **Constitution:** 15 (+2)
+- **Intelligence:** 18 (+4)
+- **Wisdom:** 15 (+2)
+- **Charisma:** 16 (+3)
+
+## SAVING THROWS
+- **Intelligence:** +8
+- **Wisdom:** +6
+- **Charisma:** +7
+
+## SKILLS
+- **Arcana:** +12
+- **History:** +8
+- **Insight:** +6
+- **Perception:** +6
+
+## DAMAGE RESISTANCES
+Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks
+
+## DAMAGE IMMUNITIES
+Necrotic, Poison
+
+## CONDITION IMMUNITIES
+Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
+
+## SENSES
+Darkvision 120 feet, Passive Perception 16
+
+## SPECIAL ABILITIES
+- **Incorporeal Movement:** Can move through other creatures and objects as difficult terrain
+- **Sunlight Sensitivity:** Disadvantage on attack rolls and Perception checks in sunlight
+- **Magic Resistance:** Advantage on saving throws against spells
+- **Bound Guardian:** Cannot willingly move more than 120 feet from the goblet
+
+## SPELLCASTING (10th level wizard)
+**Spell Save DC:** 16
+**Spell Attack Bonus:** +8
+**Spells Known:**
+- **Cantrips:** Chill Touch, Mage Hand, Minor Illusion, Prestidigitation
+- **1st (4 slots):** Magic Missile, Shield
+- **2nd (3 slots):** Misty Step, Web
+- **3rd (3 slots):** Counterspell, Fireball, Fear
+- **4th (3 slots):** Greater Invisibility, Confusion
+- **5th (2 slots):** Hold Monster, Cone of Cold
+
+## COMBAT ACTIONS
+**Multiattack:** Can make two Necrotic Touch attacks or cast a spell and make one attack
+
+**Necrotic Touch:** +7 to hit, reach 5 feet, 4d8+3 necrotic damage plus target must make DC 16 Constitution save or have maximum hit points reduced by damage taken
+
+**Shadow Summon (1/day):** Summons 2d4 shadows to fight alongside him for 10 minutes
+
+**Terrifying Wail (Recharge 5-6):** All creatures within 60 feet must make DC 16 Wisdom save or be frightened for 1 minute
+
+## LEGENDARY ACTIONS (3 per turn)
+- **Move:** Fly up to 30 feet without provoking opportunity attacks
+- **Cantrip:** Cast a cantrip
+- **Necrotic Touch:** Make one Necrotic Touch attack
+- **Cast Spell (2 actions):** Cast a spell of 3rd level or lower
